@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driving Performance & Scalability in Enterprise Applications | Java Backend Engineer | Spring Boot, Microservices, Kafka | 2+ Years Building Finance-Domain Systems
+Software Engineer with 2+ years of experience in Java Backend Development, specializing in Spring Boot, Microservices, REST APIs, Spring Security, Kafka, SQL, and Oracle. Proven track record of designing scalable enterprise applications, optimizing system performance, and delivering high-impact solutions in financial services environments. Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, and Distributed Systems.
 
 
 ## 🌐 Socials:
